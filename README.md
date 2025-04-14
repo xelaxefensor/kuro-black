@@ -1,7 +1,7 @@
 [//]: # (note for me - Linux/Unix Desktops > Desktop Themes > KDE > KDE Plasma > Plasma 6 splashscreen)
 
 <p align="center">
-  <a href="https://www.pling.com/p/2135195/">
+  <a href="https://www.pling.com/p/2280054/">
     <img alt="kuro the cat" src="a2n.kuro/contents/splash/images/cat.gif" width="220"/>
   </a>
 </p>
@@ -10,6 +10,9 @@
 ## Description
 
 Wake up your pc with Kuro the cat
+Now with black background
+
+Mod of [kuro](https://github.com/bouteillerAlan/kuro) by [bouteillerAlan](https://github.com/bouteillerAlan)
 
 ### history
 
