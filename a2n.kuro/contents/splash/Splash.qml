@@ -21,7 +21,7 @@ import QtQuick.Window 2.2
 
 Rectangle {
     id: root
-    color: "#161616"
+    color: "#000000"
     property int stage
 
     onStageChanged: {
