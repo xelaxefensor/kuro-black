@@ -9,8 +9,7 @@
 
 ## Description
 
-Wake up your pc with Kuro the cat
-Now with black background
+Wake up your pc with Kuro the cat. Now with black background.
 
 Mod of [kuro](https://github.com/bouteillerAlan/kuro) by [bouteillerAlan](https://github.com/bouteillerAlan)
 
